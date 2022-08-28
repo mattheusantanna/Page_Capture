@@ -7,7 +7,7 @@ font-family: Arial, Helvetica, sans-serif;
 background-color: black;
 }
 .container{
-max-width: 1000px;
+max-width: 1200px;
 margin: auto;
 }
 header{
@@ -61,6 +61,7 @@ select{
 footer{
     background-color: #202121;
     padding: 40px;
+    padding-bottom: 12%;
     text-align: center;   
 
 }
